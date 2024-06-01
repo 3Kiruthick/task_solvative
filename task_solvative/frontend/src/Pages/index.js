@@ -1,0 +1,5 @@
+export { default as Home } from './Home'
+export { default as New_User } from './New_User'
+export { default as User_Data } from './User_Data'
+export { default as Transaction } from './Transaction'
+export { default as Reward } from './Reward'
